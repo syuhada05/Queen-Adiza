@@ -20,23 +20,23 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || '𝗔𝗱𝗶𝘇𝗮-𝗕𝗼𝘁' 
+global.botname = process.env.BOT_NAME || 'Ryiz-𝗕𝗼𝘁' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233593734312' 
+global.ownernumber = process.env.OWNER_NUMBER || '601139137441' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || '𝗤𝗨𝗘𝗘𝗡 𝗔𝗗𝗜𝗭𝗔' 
+global.ownername = process.env.OWNER_NAME || 'CherryiZ' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "𝗔𝗗𝗜𝗭𝗔" 
+global.packname = process.env.STICKER_PACK_NAME || "CherryiZ" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "AISHA" 
+global.author = process.env.STICKER_AUTHOR_NAME || "CherryiZ" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
@@ -57,7 +57,7 @@ global.plink = process.env.PLINK || "https://www.youtube.com/@matrix-zat"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©𝗔𝗱𝗶𝘇𝗮-𝗕𝗼𝘁"
+global.wm = process.env.GL_WM || "> ©Ryiz-𝗕𝗼𝘁"
 
 //---------------------[ REPLIES ]-----------------------//
 
